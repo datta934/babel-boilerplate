@@ -1,0 +1,6 @@
+1. Used npm build script to mention command manually and use liver-sever
+2. Used npm run webpack after installing webpack
+3. We can add webpack watch assuming it to be 5 secs solution
+4. To avoid any confusions and follow proper commands configure dev-server
+5. Used babel-loader and mentioned presets
+6. Environment and source maps
